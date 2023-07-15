@@ -1,5 +1,7 @@
-# 💫 About Me:
+# About Me:
 🌱 I’m currently learning React<br><br>💬 Ask me about MERN<br><br>📫 How to reach me husseinkanaan255@gmail.com
+
+<img align="right" alt="Coding" width="100" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
 
 
 ## 🌐 Socials:
